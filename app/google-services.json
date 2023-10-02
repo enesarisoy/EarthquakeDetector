@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "738030287458",
+    "firebase_url": "https://deprem-1dede-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "deprem-1dede",
+    "storage_bucket": "deprem-1dede.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738030287458:android:f1209c2b013060cb962f3b",
+        "android_client_info": {
+          "package_name": "com.ns.deprem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMi2V32szZW_76wJu9pC6Ois-ThPky32w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738030287458:android:51fc1dac74251a9f962f3b",
+        "android_client_info": {
+          "package_name": "com.ns.earthquakealert"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMi2V32szZW_76wJu9pC6Ois-ThPky32w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
